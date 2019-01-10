@@ -1,2 +1,2 @@
 # mapa_infona
-Grafico osm dependencias infona
+Mapa osm dependencias infona
