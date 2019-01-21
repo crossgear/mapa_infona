@@ -1,0 +1,1373 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.523742477415176,-25.33954462983575 ]
+    },
+    "properties": {
+    "Nº":1,
+    "NOMBRE":"OFICINA CENTRAL",
+    "DEPENDENCIA":"SEDE CENTRAL",
+    "CATEGORÍA":"OFICINA CENTRAL",
+    "LOCALIDAD":"Barcequillo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"http://www.infona.gov.py/application/files/2115/3487/4715/636704714365102534_IMG_4917.jpg",
+    "RESPONSABLE":"Ingeniera Forestal Cristina Alejandra Goralewski"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.72093291047773,-25.50255408746934 ]
+    },
+    "properties": {
+    "Nº":2,
+    "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Alto Paraná",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"CEFOTESFOR",
+    "LOCALIDAD":"Ciudad del Este, Km12 Monday",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.496382907536486,-26.923235007433924 ]
+    },
+    "properties": {
+    "Nº":3,
+    "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Itapúa",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"CEFOTESFOR",
+    "LOCALIDAD":"Pirapó",
+    "DISTRITO":"Pirapó",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.85300303015697,-25.952781793744858 ]
+    },
+    "properties": {
+    "Nº":4,
+    "NOMBRE":"Núcleo Forestal Cesar Barrientos",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"César Barrientos",
+    "DISTRITO":"Ybycui",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.12103361614121,-26.41395747383259 ]
+    },
+    "properties": {
+    "Nº":5,
+    "NOMBRE":"Núcleo Forestal Villa Florida",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Villa Florida",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.86903395233435,-25.96973012433523 ]
+    },
+    "properties": {
+    "Nº":6,
+    "NOMBRE":"Núcleo Forestal Km. 10 San Blas Aba´i",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"San Blás",
+    "DISTRITO":"Abai",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.43435684857493,-23.407808110822828 ]
+    },
+    "properties": {
+    "Nº":7,
+    "NOMBRE":"OFICINA REGIONAL CONCEPCIÓN",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Concepción",
+    "DISTRITO":"Concepción",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.125933863450896,-23.05150570210066 ]
+    },
+    "properties": {
+    "Nº":8,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paso Barreto",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Paso Barreto",
+    "DISTRITO":"Paso Barreto",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.40261837259256,-22.878569879425587 ]
+    },
+    "properties": {
+    "Nº":9,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia San Alfredo",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia San Alfredo",
+    "DISTRITO":"Colonia San Alfredo",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.54077322516711,-22.964487184359026 ]
+    },
+    "properties": {
+    "Nº":10,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Yby Yau",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Yby Yau",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.27677731182275,-22.720646432535123 ]
+    },
+    "properties": {
+    "Nº":11,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Bella Vista",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Bella Vista",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.43784983013332,-23.44909620385745 ]
+    },
+    "properties": {
+    "Nº":12,
+    "NOMBRE":"Puerto de Entrada y Salida Almasol",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Concepción",
+    "DISTRITO":"Concepción",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.51682407377874,-23.822257412602344 ]
+    },
+    "properties": {
+    "Nº":13,
+    "NOMBRE":"OFICINA REGIONAL SAN PEDRO NORTE",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio San José",
+    "DISTRITO":"Santa Rosa del Aguaray",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.495834177832876,-23.765982254937242 ]
+    },
+    "properties": {
+    "Nº":14,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Santa Rosa del Aguaray",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio Loma Pucú",
+    "DISTRITO":"Santa Rosa del Aguaray",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.442921103988816,-24.66659073982458 ]
+    },
+    "properties": {
+    "Nº":15,
+    "NOMBRE":"OFICINA REGIONAL SAN PEDRO SUR",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio Centro",
+    "DISTRITO":"San Estanislao",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.41550143258403,-24.396702171213786 ]
+    },
+    "properties": {
+    "Nº":16,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Barrio San Pedro",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio San Pedro",
+    "DISTRITO":"Guayaivi",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.541094821435166,-24.70032942186418 ]
+    },
+    "properties": {
+    "Nº":17,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal 25 de Diciembre",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Costa Puku",
+    "DISTRITO":"25 de Diciembre",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.045704296209905,-24.524435348979996 ]
+    },
+    "properties": {
+    "Nº":18,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Sanguina Cue",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Yryvu Cua",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.39853506423808,-24.67925287520293 ]
+    },
+    "properties": {
+    "Nº":19,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tacuara",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Takuara",
+    "DISTRITO":"San Estanislao",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.434816286214996,-25.436431484651045 ]
+    },
+    "properties": {
+    "Nº":20,
+    "NOMBRE":"OFICINA REGIONAL CORONEL OVIEDO",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Coronel Oviedo",
+    "DISTRITO":"Coronel Oviedo",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.530820793307484,-25.47354102951819 ]
+    },
+    "properties": {
+    "Nº":21,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Nueva Londres",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Nueva Londres",
+    "DISTRITO":"Nueva Londres",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.30897775216427,-24.97686821457338 ]
+    },
+    "properties": {
+    "Nº":22,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Mbutuy",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Mbutuy",
+    "DISTRITO":"Santa Rosa del Mbutuy",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.39706544666453,-25.199622094432627 ]
+    },
+    "properties": {
+    "Nº":23,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Carayaó",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Carayaó",
+    "DISTRITO":"Carayaó",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0213349125147,-25.46613367329377 ]
+    },
+    "properties": {
+    "Nº":24,
+    "NOMBRE":"OFICINA REGIONAL CAAGUAZÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Caaguazú",
+    "DISTRITO":"Caaguazú",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.981565108328255,-25.462910418081698 ]
+    },
+    "properties": {
+    "Nº":25,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Toro Blanco Km. 175–Ruta N° 7",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio Toro Blanco Km. 175–Ruta N° 7",
+    "DISTRITO":"Caaguazú",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.930157570696444,-26.110286276404352 ]
+    },
+    "properties": {
+    "Nº":26,
+    "NOMBRE":"OFICINA REGIONAL CAAZAPÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San Juan Nepomuceno",
+    "DISTRITO":"San Juan Nepomuceno",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.09077285212041,-26.017775110683292 ]
+    },
+    "properties": {
+    "Nº":27,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal General Morínigo",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"General Morínigo",
+    "DISTRITO":"General Morínigo",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.870637668713876,-27.328183587484567 ]
+    },
+    "properties": {
+    "Nº":28,
+    "NOMBRE":"OFICINA REGIONAL ITAPÚA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio Carlos Antonio López",
+    "DISTRITO":"Encarnación",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.697970832846245,-27.122789705750794 ]
+    },
+    "properties": {
+    "Nº":29,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Trinidad",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Miguel",
+    "DISTRITO":"Santísima Trinidad",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.85339068004695,-27.362905769845007 ]
+    },
+    "properties": {
+    "Nº":30,
+    "NOMBRE":"Puerto de Entrada y Salida Centro de Fronteras de Encarnación",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Buena Vista",
+    "DISTRITO":"Encarnación",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.64311548875658,-25.50629644112064 ]
+    },
+    "properties": {
+    "Nº":31,
+    "NOMBRE":"OFICINA REGIONAL ALTO PARANÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/Jorge_Manuel_Peralta_Benitez_Centro_Forestal_Alto_Parana.jpg",
+    "RESPONSABLE":"Ing. Jorge Manuel Peralta Benitez"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.99268239702725,-25.661988909643718 ]
+    },
+    "properties": {
+    "Nº":32,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tavapy",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Tavapy",
+    "DISTRITO":"Tavapy",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.18289286994288,-25.444516375721452 ]
+    },
+    "properties": {
+    "Nº":33,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Km. 60",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia Santo Domingo",
+    "DISTRITO":"Yguazú",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.65922207799532,-25.328584070983528 ]
+    },
+    "properties": {
+    "Nº":34,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Hernandarias",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Hernandarias",
+    "DISTRITO":"Hernandarias",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.60604410165974,-25.509513276503156 ]
+    },
+    "properties": {
+    "Nº":35,
+    "NOMBRE":"Puerto de Entrada y Salida en el Puente de la Amistad",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.71940164249078,-25.486211341611355 ]
+    },
+    "properties": {
+    "Nº":36,
+    "NOMBRE":"Puerto de Entrada y Salida en Km. 12–AlGESA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.523742477415176,-25.33954462983575 ]
+    },
+    "properties": {
+    "Nº":37,
+    "NOMBRE":"OFICINA REGIONAL CENTRAL",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San Lorenzo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.6565986455826,-25.27660370227765 ]
+    },
+    "properties": {
+    "Nº":38,
+    "NOMBRE":"Puerto de Entrada y Salida en Puertos y Almacenes Generales Kanonnikoff S.A. (PAKSA)",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"San Antonio",
+    "DISTRITO":"Asunción",
+    "DEPARTAMENTO":"Asunción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.51348639895616,-25.24260213799939 ]
+    },
+    "properties": {
+    "Nº":39,
+    "NOMBRE":"Puerto de Entrada y Salida en el Aeropuerto Silvio Pettirossi",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Zarate Isla",
+    "DISTRITO":"Luque",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.548261762878525,-25.44399075543526 ]
+    },
+    "properties": {
+    "Nº":40,
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Terport",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Achucarro",
+    "DISTRITO":"San Antonio, Ñemby",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.55546799171533,-25.21443749990271 ]
+    },
+    "properties": {
+    "Nº":41,
+    "NOMBRE":"Puerto de Entrada y Salida en el Puerto Seguro (privado) y Estatal",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Rosa Mística",
+    "DISTRITO":"Mariano Roque Alonso",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.56474198872626,-25.22139200653768 ]
+    },
+    "properties": {
+    "Nº":42,
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Fenix",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Bañado",
+    "DISTRITO":"Mariano Roque Alonso",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.689571876399455,-25.22908001378741 ]
+    },
+    "properties": {
+    "Nº":43,
+    "NOMBRE":"Puerto de Entrada y Salida en Chaco´i",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"San Ramón",
+    "DISTRITO":"José Falcón",
+    "DEPARTAMENTO":"Pdte. Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.1414548376397,-25.379663931165467 ]
+    },
+    "properties": {
+    "Nº":44,
+    "NOMBRE":"OFICINA REGIONAL CORDILLERA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Caacupé",
+    "DISTRITO":"Caacupé",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.093627484040944,-25.05127823195193 ]
+    },
+    "properties": {
+    "Nº":45,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Arroyos y Esteros",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Arroyos y Esteros",
+    "DISTRITO":"Arroyos y Esteros",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.72141373771257,-22.56534679143242 ]
+    },
+    "properties": {
+    "Nº":46,
+    "NOMBRE":"OFICINA REGIONAL AMAMBAY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.53392548105229,-23.266782656319712 ]
+    },
+    "properties": {
+    "Nº":47,
+    "NOMBRE":"OFICINA REGIONAL CAPITÁN BADO",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Capitán Bado",
+    "DISTRITO":"Capitán Bado",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.76542442917396,-22.585688667690327 ]
+    },
+    "properties": {
+    "Nº":48,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pedro J. Caballero",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.55531128991801,-23.287797732642296 ]
+    },
+    "properties": {
+    "Nº":49,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia Mcal. López",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia Mariscal López",
+    "DISTRITO":"Capitán Bado",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.71859609840838,-22.5545307075061 ]
+    },
+    "properties": {
+    "Nº":50,
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Pedro J. Caballero",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.306794597466244,-24.06491993173293 ]
+    },
+    "properties": {
+    "Nº":51,
+    "NOMBRE":"OFICINA REGIONAL CANINDEYÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Salto del Guaira",
+    "DISTRITO":"Salto del Guaira",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.82425844873757,-24.259156811952504 ]
+    },
+    "properties": {
+    "Nº":52,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Carolina",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Carolina",
+    "DISTRITO":"Corpus Christi",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.30243608744903,-24.06370589198503 ]
+    },
+    "properties": {
+    "Nº":53,
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto de Salto del Guaira",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Salto del Guaira",
+    "DISTRITO":"Salto del Guaira",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.687390435233446,-24.47787499291342 ]
+    },
+    "properties": {
+    "Nº":54,
+    "NOMBRE":"OFICINA REGIONAL CURUGUATY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Curuguaty",
+    "DISTRITO":"Curuguaty",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.702377772843896,-24.4548149125745 ]
+    },
+    "properties": {
+    "Nº":55,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Curuguaty",
+    "DISTRITO":"Curuguaty",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.370989489539696,-24.434577815262827 ]
+    },
+    "properties": {
+    "Nº":56,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty-Km. 35",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 35-Ruta Nº 10",
+    "DISTRITO":"Yvy Pyta",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.442503125756026,-23.895128848823056 ]
+    },
+    "properties": {
+    "Nº":57,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Ypejhú",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Ypejhú",
+    "DISTRITO":"Ypejhú",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.75788990416586,-22.66640059434 ]
+    },
+    "properties": {
+    "Nº":58,
+    "NOMBRE":"OFICINA REGIONAL PRESIDENTE HAYES",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.794125821660536,-23.494307851004343 ]
+    },
+    "properties": {
+    "Nº":59,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pozo Colorado",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 270-Ruta Nº 9-Pozo Colorado",
+    "DISTRITO":"Villa Hayes",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.56046023381766,-25.17302248409652 ]
+    },
+    "properties": {
+    "Nº":60,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Vista Alegre",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 22-Ruta Nº 9-Remansito-Vista Alegre",
+    "DISTRITO":"Villa  Hayes",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.75788990416586,-22.66640059434 ]
+    },
+    "properties": {
+    "Nº":61,
+    "NOMBRE":"OFICINA REGIONAL BOQUERÓN",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.75788990416586,-22.66640059434 ]
+    },
+    "properties": {
+    "Nº":62,
+    "NOMBRE":"OFICINA REGIONAL ALTO PARAGUAY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.44906223594039,-25.787322247649772 ]
+    },
+    "properties": {
+    "Nº":63,
+    "NOMBRE":"OFICINA REGIONAL GUAIRÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Villarrica",
+    "DISTRITO":"Villarrica",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.61549239366297,-25.76204054656325 ]
+    },
+    "properties": {
+    "Nº":64,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cnel. Martínez",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cnel. Martinez",
+    "DISTRITO":"Cnel. Martinez",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.15022907977706,-25.6329504225774 ]
+    },
+    "properties": {
+    "Nº":65,
+    "NOMBRE":"OFICINA REGIONAL PARAGUARÍ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Paraguarí",
+    "DISTRITO":"Paraguarí",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.14961802159845,-25.630214868969162 ]
+    },
+    "properties": {
+    "Nº":66,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paraguarí",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Paraguarí",
+    "DISTRITO":"Paraguarí",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.07850389366027,-26.924135370769385 ]
+    },
+    "properties": {
+    "Nº":67,
+    "NOMBRE":"OFICINA REGIONAL MISIONES",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San José",
+    "DISTRITO":"San Ignacio",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.12100312818146,-26.413569238477017 ]
+    },
+    "properties": {
+    "Nº":68,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Villa Florida",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Villa Florida",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.28338024653134,-26.8550681698426 ]
+    },
+    "properties": {
+    "Nº":69,
+    "NOMBRE":"OFICINA REGIONAL ÑEEMBUCÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.28338024653134,-26.8550681698426 ]
+    },
+    "properties": {
+    "Nº":70,
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pilar",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.321308379143474,-26.870173608247928 ]
+    },
+    "properties": {
+    "Nº":71,
+    "NOMBRE":"Puerto de Entrada y Salida Terminal Portuaria “Pilar”",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.055927,-23.336515 ]
+    },
+    "properties": {
+    "Nº":72,
+    "NOMBRE":"Vivero Horqueta",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Horqueta",
+    "DISTRITO":"Horqueta",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.536287,-22.955721 ]
+    },
+    "properties": {
+    "Nº":73,
+    "NOMBRE":"Yby Yau",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Yby Yau",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.04949,-25.383518 ]
+    },
+    "properties": {
+    "Nº":74,
+    "NOMBRE":"Cordillera",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Cordillera",
+    "DISTRITO":"Cordillera",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.419581,-25.735852 ]
+    },
+    "properties": {
+    "Nº":75,
+    "NOMBRE":"Escuela Agricola Villarrica",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Villarrica",
+    "DISTRITO":"Villarrica",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.5308283,-25.3456202 ]
+    },
+    "properties": {
+    "Nº":76,
+    "NOMBRE":"Central",
+    "DEPENDENCIA":"DGPF",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Barcequillo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"",
+    "RESPONSABLE":""
+    }
+  }
+]
+}
