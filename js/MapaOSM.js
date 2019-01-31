@@ -10,7 +10,7 @@ function cargarMapa(){
     //San Lorenzo - Paraguay
     var longitud = -57.51931059999998;
     var latitud = -25.3446035;
-	var zoom = 11;
+    var zoom = 6;
 
     // Se instancia el objeto mapa.
 	mapa =  L.map('map-container').setView([latitud, longitud], zoom);
@@ -21,11 +21,11 @@ function cargarMapa(){
 		attribution: 'Data \u00a9 <a href="http://www.openstreetmap.org/copyright">' +
           'OpenStreetMap Contributors </a> Tiles \u00a9 HOT'
     }).addTo(mapa);
-    
+
     var json = 'data/dependencias_infona.geojson'
 
     function forEachFeature(feature, layer){
-        layer.bindPopup('Nombre: ' + feature.properties.NOMBRE + '<br>' 
+        var ContentPopup = 'Nombre: ' + feature.properties.NOMBRE + '<br>' 
         + 'Dependencia: ' + feature.properties.DEPENDENCIA + '<br>' 
         + 'Categoria: ' + feature.properties.CATEGORÍA + '<br>'
         + 'Localidad: ' + feature.properties.LOCALIDAD + '<br>'
@@ -33,7 +33,11 @@ function cargarMapa(){
         + 'Departamento: ' + feature.properties.DEPARTAMENTO + '<br>'
         + '<img src= ' + feature.properties.pic2URL + ' alt="" class="images">'
         + 'Responsable: ' + feature.properties.RESPONSABLE + '<br>'
-        );
+        + 'Contacto: ' + feature.properties.CONTACTO + '<br>' ;
+
+        layer.bindPopup(ContentPopup)
+
+            
         /*if (feature.properties) {
             var v_popupString = '<div class="popup">';
     
@@ -45,7 +49,7 @@ function cargarMapa(){
             layer.bindPopup(v_popupString);
         }*/ 
     }
-
+    
     var DGOR = L.geoJSON(null,{
         onEachFeature: forEachFeature,
 
@@ -92,7 +96,7 @@ function cargarMapa(){
     $.getJSON(json, function(data){
         DGEEF.addData(data)
     });
-
+    
     DGEEF.addTo(mapa);
     
     var SCENTRAL = L.geoJSON(null,{
