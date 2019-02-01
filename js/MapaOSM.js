@@ -168,22 +168,28 @@ function cargarMapa(){
 
     
 
-    var overlay = {
-        "Todos los Puntos" : jsondata,
-        "Oficina Central" : OFICEN,
-        "CEFOTESFOR" : CEFOTESFOR,
-        "Oficinas Regionales": OFICREG,
-        "NÚCLEO FORESTAL" : NUFO,
-        "UNATEC Y CONFOR" : UC,
-        "PES": PES,
-        "VIVERO": VIVERO,
-
-
+    var groupedOverlays = {
+        "Dependencias":{
+            "Todos los Puntos" : jsondata,
+            "Oficina Central" : OFICEN,
+            "CEFOTESFOR" : CEFOTESFOR,
+            "Oficinas Regionales": OFICREG,
+            "NÚCLEO FORESTAL" : NUFO,
+            "UNATEC Y CONFOR" : UC,
+            "PES": PES,
+            "VIVERO": VIVERO,
+        }
     }
 
-    layerControl = L.control.layers(null, overlay, {
-        collapsed: true
-    }).addTo(mapa);
+    var options = {
+        // Make the "Landmarks" group exclusive (use radio inputs)
+        exclusiveGroups: ["Dependencias"],
+        // Show a checkbox next to non-exclusive group labels for toggling all
+        groupCheckboxes: true
+      };
+
+    layerControl = L.control.groupedLayers(null, groupedOverlays, options);
+    mapa.addControl(layerControl);
 
     
 }
