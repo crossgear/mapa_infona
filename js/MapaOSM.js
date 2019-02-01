@@ -10,7 +10,7 @@ function cargarMapa(){
     //San Lorenzo - Paraguay
     var longitud = -57.51931059999998;
     var latitud = -25.3446035;
-    var zoom = 6;
+	var zoom = 6;
 
     // Se instancia el objeto mapa.
 	mapa =  L.map('map-container').setView([latitud, longitud], zoom);
@@ -21,6 +21,7 @@ function cargarMapa(){
 		attribution: 'Data \u00a9 <a href="http://www.openstreetmap.org/copyright">' +
           'OpenStreetMap Contributors </a> Tiles \u00a9 HOT'
     }).addTo(mapa);
+    
 
     var json = 'data/dependencias_infona.geojson'
 
@@ -36,91 +37,153 @@ function cargarMapa(){
         + 'Contacto: ' + feature.properties.CONTACTO + '<br>' ;
 
         layer.bindPopup(ContentPopup)
+        
 
-            
-        /*if (feature.properties) {
-            var v_popupString = '<div class="popup">';
-    
-            for (var k in feature.properties) {
-                var v = feature.properties[k];
-                v_popupString += '<b>' + k + '</b>: ' + v + '<br />';
-            }
-            v_popupString += '</div>';
-            layer.bindPopup(v_popupString);
-        }*/ 
     }
-    
-    var DGOR = L.geoJSON(null,{
+
+    //Todos los puntos
+    var jsondata = L.geoJson(null, {
         onEachFeature: forEachFeature,
 
         filter: function(feature, layer){
-            return(feature.properties.DEPENDENCIA == "DGOR");
+            return(feature.properties);
         },
         pointToLayer : function(feature, latlng){
-            return L.circleMarker(latlng,{
-                radius: 8,
-                fillColor: "lightgreen",
-                color: "black",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-                
-            }).bindTooltip(feature.properties.NOMBRE);
-        }
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);   
+        }  
     });
+
     $.getJSON(json, function(data){
-        DGOR.addData(data)
+
+        jsondata.addData(data)
     });
-
-    DGOR.addTo(mapa);
-
-
-    var DGEEF = L.geoJSON(null,{
+    
+    jsondata.addTo(mapa);
+    
+    //Oficina Central
+    var OFICEN = L.geoJSON(null,{
         onEachFeature: forEachFeature,
 
         filter: function(feature, layer){
-            return(feature.properties.DEPENDENCIA == "DGEEF");
+            return(feature.properties.CATEGORÍA == "OFICINA CENTRAL");
         },
         pointToLayer : function(feature, latlng){
-            return L.circleMarker(latlng,{
-                radius: 8,
-                fillColor: "yellow",
-                color: "black",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-                
-            }).bindTooltip(feature.properties.NOMBRE);
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
         }
     });
     $.getJSON(json, function(data){
-        DGEEF.addData(data)
+        OFICEN.addData(data)
     });
-    
-    DGEEF.addTo(mapa);
-    
-    var SCENTRAL = L.geoJSON(null,{
+
+    //CEFOTESFOR
+    var CEFOTESFOR = L.geoJSON(null,{
         onEachFeature: forEachFeature,
 
         filter: function(feature, layer){
-            return(feature.properties.DEPENDENCIA == "SEDE CENTRAL");
+            return(feature.properties.CATEGORÍA == "CEFOTESFOR");
         },
         pointToLayer : function(feature, latlng){
-            return L.circleMarker(latlng,{
-                radius: 8,
-                fillColor: "green",
-                color: "black",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-                
-            }).bindTooltip(feature.properties.NOMBRE);
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
         }
     });
     $.getJSON(json, function(data){
-        SCENTRAL.addData(data)
+        CEFOTESFOR.addData(data)
     });
 
-    SCENTRAL.addTo(mapa);
+    //NÚCLEO FORESTAL
+    var NUFO = L.geoJSON(null,{
+        onEachFeature: forEachFeature,
 
+        filter: function(feature, layer){
+            return(feature.properties.CATEGORÍA == "NÚCLEO FORESTAL");
+        },
+        pointToLayer : function(feature, latlng){
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
+        }
+    });
+    $.getJSON(json, function(data){
+        NUFO.addData(data)
+    });
+
+    //OFICINA REGIONAL
+    var OFICREG = L.geoJSON(null,{
+        onEachFeature: forEachFeature,
+
+        filter: function(feature, layer){
+            return(feature.properties.CATEGORÍA == "OFICINA REGIONAL");
+        },
+        pointToLayer : function(feature, latlng){
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
+        }
+    });
+    $.getJSON(json, function(data){
+        OFICREG.addData(data)
+    });
+
+    //UNATEC Y CONFOR
+    var UC = L.geoJSON(null,{
+        onEachFeature: forEachFeature,
+
+        filter: function(feature, layer){
+            return(feature.properties.CATEGORÍA == "UNATEC Y CONFOR");
+        },
+        pointToLayer : function(feature, latlng){
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
+        }
+    });
+    $.getJSON(json, function(data){
+        UC.addData(data)
+    });
+
+    //PES
+    var PES = L.geoJSON(null,{
+        onEachFeature: forEachFeature,
+
+        filter: function(feature, layer){
+            return(feature.properties.CATEGORÍA == "PES");
+        },
+        pointToLayer : function(feature, latlng){
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
+        }
+    });
+    $.getJSON(json, function(data){
+        PES.addData(data)
+    });
+
+    //VIVERO
+    var VIVERO = L.geoJSON(null,{
+        onEachFeature: forEachFeature,
+
+        filter: function(feature, layer){
+            return(feature.properties.CATEGORÍA == "VIVERO");
+        },
+        pointToLayer : function(feature, latlng){
+            return L.marker(latlng,{}).bindTooltip(feature.properties.NOMBRE);
+        }
+    });
+    $.getJSON(json, function(data){
+        VIVERO.addData(data)
+    });
+
+
+    
+
+    var overlay = {
+        "Todos los Puntos" : jsondata,
+        "Oficina Central" : OFICEN,
+        "CEFOTESFOR" : CEFOTESFOR,
+        "Oficinas Regionales": OFICREG,
+        "NÚCLEO FORESTAL" : NUFO,
+        "UNATEC Y CONFOR" : UC,
+        "PES": PES,
+        "VIVERO": VIVERO,
+
+
+    }
+
+    layerControl = L.control.layers(null, overlay, {
+        collapsed: true
+    }).addTo(mapa);
+
+    
 }

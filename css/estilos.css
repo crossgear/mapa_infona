@@ -1,4 +1,4 @@
-#map-container{
+html, body, #map-container{
     height: 100%;
     width: 100%;
 }
@@ -10,4 +10,9 @@
 }
 .titulo{
     text-align: center;
+}
+
+body {
+    padding: 0;
+    margin: 0;
 }
