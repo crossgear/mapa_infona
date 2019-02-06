@@ -26,15 +26,15 @@ function cargarMapa(){
     var json = 'data/dependencias_infona.geojson'
 
     function forEachFeature(feature, layer){
-        var ContentPopup = 'Nombre: ' + feature.properties.NOMBRE + '<br>' 
-        + 'Dependencia: ' + feature.properties.DEPENDENCIA + '<br>' 
-        + 'Categoria: ' + feature.properties.CATEGORÍA + '<br>'
-        + 'Localidad: ' + feature.properties.LOCALIDAD + '<br>'
-        + 'Distrito: ' + feature.properties.DISTRITO + '<br>'
-        + 'Departamento: ' + feature.properties.DEPARTAMENTO + '<br>'
+        var ContentPopup = '<b>Nombre:</b> ' + feature.properties.NOMBRE + '<br>' 
+        + '<b>Dependencia:</b> ' + feature.properties.DEPENDENCIA + '<br>' 
+        + '<b>Categoria:</b> ' + feature.properties.CATEGORÍA + '<br>'
+        + '<b>Localidad:</b> ' + feature.properties.LOCALIDAD + '<br>'
+        + '<b>Distrito:</b> ' + feature.properties.DISTRITO + '<br>'
+        + '<b>Departamento:</b> ' + feature.properties.DEPARTAMENTO + '<br>'
         + '<img src= ' + feature.properties.pic2URL + ' alt="" class="images">'
-        + 'Responsable: ' + feature.properties.RESPONSABLE + '<br>'
-        + 'Contacto: ' + feature.properties.CONTACTO + '<br>' ;
+        + '<b>Responsable:</b> ' + feature.properties.RESPONSABLE + '<br>'
+        + '<b>Contacto:</b> ' + feature.properties.CONTACTO + '<br>' ;
 
         layer.bindPopup(ContentPopup)
         
