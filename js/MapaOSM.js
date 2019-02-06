@@ -170,6 +170,7 @@ function cargarMapa(){
 
     var groupedOverlays = {
         "Dependencias":{
+<<<<<<< HEAD
             "Todos las Dependencias" : jsondata,
             "Oficina Central" : OFICEN,
             "Centros de Formación Tecnico Forestal" : CEFOTESFOR,
@@ -178,6 +179,16 @@ function cargarMapa(){
             "Unidades de Asistencia Tecnica Y Control Forestal" : UC,
             "Puertos Entrada Y Salida": PES,
             "Viveros": VIVERO,
+=======
+            "Todos los Puntos" : jsondata,
+            "Oficina Central" : OFICEN,
+            "CEFOTESFOR" : CEFOTESFOR,
+            "Oficinas Regionales": OFICREG,
+            "NÚCLEO FORESTAL" : NUFO,
+            "UNATEC Y CONFOR" : UC,
+            "PES": PES,
+            "VIVERO": VIVERO,
+>>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
         }
     }
 
