@@ -1,0 +1,1449 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.523808,-25.339597 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA CENTRAL",
+    "DEPENDENCIA":"SEDE CENTRAL",
+    "CATEGORÍA":"OFICINA CENTRAL",
+    "LOCALIDAD":"Barcequillo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"http://www.infona.gov.py/application/files/2115/3487/4715/636704714365102534_IMG_4917.jpg",
+    "RESPONSABLE":"Ingeniera Forestal Cristina Alejandra Goralewski",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.72093291,-25.50255409 ]
+    },
+    "properties": {
+    "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Alto Paraná",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"CEFOTESFOR",
+    "LOCALIDAD":"Ciudad del Este, Km12 Monday",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.4315804,-26.8011448 ]
+    },
+    "properties": {
+    "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Itapúa",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"CEFOTESFOR",
+    "LOCALIDAD":"Pirapó",
+    "DISTRITO":"Pirapó",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.85300303,-25.95278179 ]
+    },
+    "properties": {
+    "NOMBRE":"Núcleo Forestal Cesar Barrientos",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"César Barrientos",
+    "DISTRITO":"Ybycui",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.12103362,-26.41395747 ]
+    },
+    "properties": {
+    "NOMBRE":"Núcleo Forestal Villa Florida",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Villa Florida",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.86903395,-25.96973012 ]
+    },
+    "properties": {
+    "NOMBRE":"Núcleo Forestal Km. 10 San Blas Aba´i",
+    "DEPENDENCIA":"DGEEF",
+    "CATEGORÍA":"NÚCLEO FORESTAL",
+    "LOCALIDAD":"San Blás",
+    "DISTRITO":"Abai",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.43435685,-23.40780811 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CONCEPCIÓN",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Concepción",
+    "DISTRITO":"Concepción",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Ing. Gustavo Torales",
+    "CONTACTO":"0981-394271",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.12593386,-23.0515057 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paso Barreto",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Paso Barreto",
+    "DISTRITO":"Paso Barreto",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.40261837,-22.87856988 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia San Alfredo",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia San Alfredo",
+    "DISTRITO":"Colonia San Alfredo",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.54077323,-22.96448718 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Yby Yau",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Yby Yau",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.27677731,-22.72064643 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Bella Vista",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Bella Vista",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.43784983,-23.4490962 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida Almasol",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Concepción",
+    "DISTRITO":"Concepción",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.51682407,-23.82225741 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL SAN PEDRO NORTE",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio San José",
+    "DISTRITO":"Santa Rosa del Aguaray",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/edgar_chamorro.jpg",
+    "RESPONSABLE":"Ing. Edgar Chamorro",
+    "CONTACTO":"0981-505594",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.49583418,-23.76598225 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Santa Rosa del Aguaray",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio Loma Pucú",
+    "DISTRITO":"Santa Rosa del Aguaray",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.4429211,-24.66659074 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL SAN PEDRO SUR",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio Centro",
+    "DISTRITO":"San Estanislao",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/martin_rubiani.jpg",
+    "RESPONSABLE":"Lic. Martin Rubiani",
+    "CONTACTO":"0986-618559",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.41550143,-24.39670217 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Barrio San Pedro",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio San Pedro",
+    "DISTRITO":"Guayaivi",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.54109482,-24.70032942 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal 25 de Diciembre",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Costa Puku",
+    "DISTRITO":"25 de Diciembre",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0457043,-24.52443535 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Sanguina Cue",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Yryvu Cua",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.39853506,-24.67925288 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tacuara",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Takuara",
+    "DISTRITO":"San Estanislao",
+    "DEPARTAMENTO":"San Pedro",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.530814,-25.473345 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CORONEL OVIEDO",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Coronel Oviedo",
+    "DISTRITO":"Coronel Oviedo",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/ricardoalvarenga.jpg",
+    "RESPONSABLE":"Ing. Ricardo Alvarenga",
+    "CONTACTO":"0981-590956",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.53082079,-25.47354103 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Nueva Londres",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Nueva Londres",
+    "DISTRITO":"Nueva Londres",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.30897775,-24.97686821 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Mbutuy",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Mbutuy",
+    "DISTRITO":"Santa Rosa del Mbutuy",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.39706545,-25.19962209 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Carayaó",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Carayaó",
+    "DISTRITO":"Carayaó",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.017266,-25.463529 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CAAGUAZÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Caaguazú",
+    "DISTRITO":"Caaguazú",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Ing. Cristino Benitez",
+    "CONTACTO":"0982-541264",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.98156511,-25.46291042 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Toro Blanco Km. 175–Ruta N° 7",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Barrio Toro Blanco Km. 175–Ruta N° 7",
+    "DISTRITO":"Caaguazú",
+    "DEPARTAMENTO":"Caaguazú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.017285,-25.463528 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CAAZAPÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San Juan Nepomuceno",
+    "DISTRITO":"San Juan Nepomuceno",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"img/arnaldo_casco.jpg",
+    "RESPONSABLE":"Ing. Arnaldo Casco",
+    "CONTACTO":"0981-250807",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.09077285,-26.01777511 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal General Morínigo",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"General Morínigo",
+    "DISTRITO":"General Morínigo",
+    "DEPARTAMENTO":"Caazapá",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.9238024,-27.1410744 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL ITAPÚA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Barrio Carlos Antonio López",
+    "DISTRITO":"Encarnación",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"img/dario_gimenez.jpg",
+    "RESPONSABLE":"Ing. Dario Gimenez",
+    "CONTACTO":"0971-107444",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.69797083,-27.12278971 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Trinidad",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Miguel",
+    "DISTRITO":"Santísima Trinidad",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.85339068,-27.36290577 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida Centro de Fronteras de Encarnación",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Buena Vista",
+    "DISTRITO":"Encarnación",
+    "DEPARTAMENTO":"Itapúa",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.64311549,-25.50629644 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL ALTO PARANÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/jorge_benitez.jpg",
+    "RESPONSABLE":"Ing. Jorge Benitez",
+    "CONTACTO":"0975-230230",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.9926824,-25.66198891 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tavapy",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Tavapy",
+    "DISTRITO":"Tavapy",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.18289287,-25.44451638 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Km. 60",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia Santo Domingo",
+    "DISTRITO":"Yguazú",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.65922208,-25.32858407 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Hernandarias",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Hernandarias",
+    "DISTRITO":"Hernandarias",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.6060441,-25.50951328 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en el Puente de la Amistad",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.71940164,-25.48621134 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Km. 12–AlGESA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Ciudad del Este",
+    "DISTRITO":"Ciudad del Este",
+    "DEPARTAMENTO":"Alto Paraná",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.52374248,-25.33954463 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CENTRAL",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San Lorenzo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/rodrigo_torres.jpg",
+    "RESPONSABLE":"Ing. Rodrigo Torres",
+    "CONTACTO":"0983-234955",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.65659865,-25.2766037 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Puertos y Almacenes Generales Kanonnikoff S.A. (PAKSA)",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"San Antonio",
+    "DISTRITO":"Asunción",
+    "DEPARTAMENTO":"Asunción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.5134864,-25.24260214 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en el Aeropuerto Silvio Pettirossi",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Zarate Isla",
+    "DISTRITO":"Luque",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.54826176,-25.44399076 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Terport",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Achucarro",
+    "DISTRITO":"San Antonio, Ñemby",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.55546799,-25.2144375 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en el Puerto Seguro (privado) y Estatal",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Rosa Mística",
+    "DISTRITO":"Mariano Roque Alonso",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.56474199,-25.22139201 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Fenix",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Bañado",
+    "DISTRITO":"Mariano Roque Alonso",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.68957188,-25.22908001 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Chaco´i",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"San Ramón",
+    "DISTRITO":"José Falcón",
+    "DEPARTAMENTO":"Pdte. Hayes",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.14145484,-25.37966393 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CORDILLERA",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Caacupé",
+    "DISTRITO":"Caacupé",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"img/javier_caballero.jpg",
+    "RESPONSABLE":"Ing. Javier Caballero",
+    "CONTACTO":"0984-491417",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.09362748,-25.05127823 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Arroyos y Esteros",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Arroyos y Esteros",
+    "DISTRITO":"Arroyos y Esteros",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.72141374,-22.56534679 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL AMAMBAY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"img/pedro_gimenez.jpg",
+    "RESPONSABLE":"Ing. Pedro Gimenez",
+    "CONTACTO":"0971-802957",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.53392548,-23.26678266 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CAPITÁN BADO",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Capitán Bado",
+    "DISTRITO":"Capitán Bado",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Lic. Norma Alonzo",
+    "CONTACTO":"0981-324042",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.76542443,-22.58568867 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pedro J. Caballero",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.55531129,-23.28779773 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia Mcal. López",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Colonia Mariscal López",
+    "DISTRITO":"Capitán Bado",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.7185961,-22.55453071 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto Pedro J. Caballero",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Pedro Juan Caballero",
+    "DISTRITO":"Pedro Juan Caballero",
+    "DEPARTAMENTO":"Amambay",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.3067946,-24.06491993 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CANINDEYÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Salto del Guaira",
+    "DISTRITO":"Salto del Guaira",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Tec. Oscar Gomez",
+    "CONTACTO":"0983-186798",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.82425845,-24.25915681 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Carolina",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cruce Carolina",
+    "DISTRITO":"Corpus Christi",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.30243609,-24.06370589 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en Puerto de Salto del Guaira",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Salto del Guaira",
+    "DISTRITO":"Salto del Guaira",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.68739044,-24.47787499 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL CURUGUATY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Curuguaty",
+    "DISTRITO":"Curuguaty",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/anibal_aquino.jpg",
+    "RESPONSABLE":"Tec. Anibal Aquino",
+    "CONTACTO":"0981-664395",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.70237777,-24.45481491 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Curuguaty",
+    "DISTRITO":"Curuguaty",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.37098949,-24.43457782 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty-Km. 35",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 35-Ruta Nº 10",
+    "DISTRITO":"Yvy Pyta",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.44250313,-23.89512885 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Ypejhú",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Ypejhú",
+    "DISTRITO":"Ypejhú",
+    "DEPARTAMENTO":"Canindeyú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.55384,-24.992122 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL PRESIDENTE HAYES",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Ing. Guillermo Santacruz",
+    "CONTACTO":"0981-207747",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.79412582,-23.49430785 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pozo Colorado",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 270-Ruta Nº 9-Pozo Colorado",
+    "DISTRITO":"Villa Hayes",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.56046023,-25.17302248 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Vista Alegre",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Km. 22-Ruta Nº 9-Remansito-Vista Alegre",
+    "DISTRITO":"Villa  Hayes",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.7578899,-22.66640059 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL BOQUERÓN",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"img/ignacio_rivas.jpg",
+    "RESPONSABLE":"Ing. Ignacio Rivas",
+    "CONTACTO":"0982-778171",
+    "SHOW": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.7578899,-22.66640059 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL ALTO PARAGUAY",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
+    "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
+    "DEPARTAMENTO":"Presidente Hayes",
+    "pic2URL":"img/oscar_ortiz.jpg",
+    "RESPONSABLE":"Ing. Oscar Ortiz",
+    "CONTACTO":"0976-476146",
+    "SHOW": false
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.44906224,-25.78732225 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL GUAIRÁ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Villarrica",
+    "DISTRITO":"Villarrica",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Ing. Luis Ramirez",
+    "CONTACTO":"0994-473978",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.61549239,-25.76204055 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cnel. Martínez",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Cnel. Martinez",
+    "DISTRITO":"Cnel. Martinez",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.2411211,-25.7652078 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL PARAGUARÍ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Paraguarí",
+    "DISTRITO":"Paraguarí",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"img/delfin_delgado.jpg",
+    "RESPONSABLE":"Ing. Delfin Delgado",
+    "CONTACTO":"0981-450406",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.14961802,-25.63021487 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paraguarí",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Paraguarí",
+    "DISTRITO":"Paraguarí",
+    "DEPARTAMENTO":"Paraguarí",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.026667,-26.82025 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL MISIONES",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"San José",
+    "DISTRITO":"San Ignacio",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"img/richard_galeano.jpg",
+    "RESPONSABLE":"Ing. Richard Galeano",
+    "CONTACTO":"0975-773325",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.12100313,-26.41356924 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Villa Florida",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"San Isidro",
+    "DISTRITO":"Villa Florida",
+    "DEPARTAMENTO":"Misiones",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.287357,-26.881519 ]
+    },
+    "properties": {
+    "NOMBRE":"OFICINA REGIONAL ÑEEMBUCÚ",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"OFICINA REGIONAL",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"Ing. Stella Martinez",
+    "CONTACTO":"0971-558514",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.28338025,-26.85506817 ]
+    },
+    "properties": {
+    "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pilar",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"UNATEC Y CONFOR",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.32130838,-26.87017361 ]
+    },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida Terminal Portuaria “Pilar”",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"PES",
+    "LOCALIDAD":"Pilar",
+    "DISTRITO":"Pilar",
+    "DEPARTAMENTO":"Ñeembucú",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.055927,-23.336515 ]
+    },
+    "properties": {
+    "NOMBRE":"Vivero Horqueta",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Horqueta",
+    "DISTRITO":"Horqueta",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.536287,-22.955721 ]
+    },
+    "properties": {
+    "NOMBRE":"Yby Yau",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Yby Yau",
+    "DISTRITO":"Yby Yau",
+    "DEPARTAMENTO":"Concepción",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.04949,-25.383518 ]
+    },
+    "properties": {
+    "NOMBRE":"Cordillera",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Cordillera",
+    "DISTRITO":"Cordillera",
+    "DEPARTAMENTO":"Cordillera",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.419581,-25.735852 ]
+    },
+    "properties": {
+    "NOMBRE":"Escuela Agricola Villarrica",
+    "DEPENDENCIA":"DGOR",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Villarrica",
+    "DISTRITO":"Villarrica",
+    "DEPARTAMENTO":"Guairá",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -57.5308283,-25.3456202 ]
+    },
+    "properties": {
+    "NOMBRE":"Central",
+    "DEPENDENCIA":"DGPF",
+    "CATEGORÍA":"VIVERO",
+    "LOCALIDAD":"Barcequillo",
+    "DISTRITO":"San Lorenzo",
+    "DEPARTAMENTO":"Central",
+    "pic2URL":"img/logovideo.jpg",
+    "RESPONSABLE":"INFONA",
+    "CONTACTO":"021570515/8",
+    "SHOW": true
+    }
+  }
+]
+}
