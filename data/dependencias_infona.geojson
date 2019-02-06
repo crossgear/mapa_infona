@@ -5,11 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.523808,-25.339597 ]
-=======
-       "coordinates":  [ -57.523808,-25.339597,1 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA CENTRAL",
@@ -20,23 +16,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"http://www.infona.gov.py/application/files/2115/3487/4715/636704714365102534_IMG_4917.jpg",
     "RESPONSABLE":"Ingeniera Forestal Cristina Alejandra Goralewski",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.72093291,-25.50255409 ]
-=======
-       "coordinates":  [ -54.72093291,-25.50255409,2 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Alto Paraná",
@@ -47,23 +35,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.4315804,-26.8011448 ]
-=======
-       "coordinates":  [ -55.4315804,-26.8011448,3 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Centro de Formación de Técnico Superior Forestal – Itapúa",
@@ -74,23 +54,15 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.85300303,-25.95278179 ]
-=======
-       "coordinates":  [ -56.85300303,-25.95278179,4 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Núcleo Forestal Cesar Barrientos",
@@ -101,23 +73,15 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.12103362,-26.41395747 ]
-=======
-       "coordinates":  [ -57.12103362,-26.41395747,5 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Núcleo Forestal Villa Florida",
@@ -128,23 +92,15 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.86903395,-25.96973012 ]
-=======
-       "coordinates":  [ -55.86903395,-25.96973012,6 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Núcleo Forestal Km. 10 San Blas Aba´i",
@@ -155,23 +111,15 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.43435685,-23.40780811 ]
-=======
-       "coordinates":  [ -57.43435685,-23.40780811,7 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CONCEPCIÓN",
@@ -182,23 +130,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Gustavo Torales",
-<<<<<<< HEAD
     "CONTACTO":"0981-394271",
     "SHOW": true
-=======
-    "CONTACTO":"0981-394271"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.12593386,-23.0515057 ]
-=======
-       "coordinates":  [ -57.12593386,-23.0515057,8 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paso Barreto",
@@ -209,23 +149,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.40261837,-22.87856988 ]
-=======
-       "coordinates":  [ -57.40261837,-22.87856988,9 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia San Alfredo",
@@ -236,23 +168,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.54077323,-22.96448718 ]
-=======
-       "coordinates":  [ -56.54077323,-22.96448718,10 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Yby Yau",
@@ -263,23 +187,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.27677731,-22.72064643 ]
-=======
-       "coordinates":  [ -56.27677731,-22.72064643,11 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Bella Vista",
@@ -290,23 +206,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.43784983,-23.4490962 ]
-=======
-       "coordinates":  [ -57.43784983,-23.4490962,12 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida Almasol",
@@ -317,23 +225,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.51682407,-23.82225741 ]
-=======
-       "coordinates":  [ -56.51682407,-23.82225741,13 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL SAN PEDRO NORTE",
@@ -344,23 +244,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/edgar_chamorro.jpg",
     "RESPONSABLE":"Ing. Edgar Chamorro",
-<<<<<<< HEAD
     "CONTACTO":"0981-505594",
     "SHOW": true
-=======
-    "CONTACTO":"0981-505594"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.49583418,-23.76598225 ]
-=======
-       "coordinates":  [ -56.49583418,-23.76598225,14 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Santa Rosa del Aguaray",
@@ -371,23 +263,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.4429211,-24.66659074 ]
-=======
-       "coordinates":  [ -56.4429211,-24.66659074,15 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL SAN PEDRO SUR",
@@ -398,23 +282,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/martin_rubiani.jpg",
     "RESPONSABLE":"Lic. Martin Rubiani",
-<<<<<<< HEAD
     "CONTACTO":"0986-618559",
     "SHOW": true
-=======
-    "CONTACTO":"0986-618559"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.41550143,-24.39670217 ]
-=======
-       "coordinates":  [ -56.41550143,-24.39670217,16 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Barrio San Pedro",
@@ -425,23 +301,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.54109482,-24.70032942 ]
-=======
-       "coordinates":  [ -56.54109482,-24.70032942,17 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal 25 de Diciembre",
@@ -452,23 +320,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.0457043,-24.52443535 ]
-=======
-       "coordinates":  [ -56.0457043,-24.52443535,18 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Sanguina Cue",
@@ -479,23 +339,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.39853506,-24.67925288 ]
-=======
-       "coordinates":  [ -56.39853506,-24.67925288,19 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tacuara",
@@ -506,23 +358,15 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.530814,-25.473345 ]
-=======
-       "coordinates":  [ -55.530814,-25.473345,20 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CORONEL OVIEDO",
@@ -531,27 +375,17 @@
     "LOCALIDAD":"Coronel Oviedo",
     "DISTRITO":"Coronel Oviedo",
     "DEPARTAMENTO":"Caaguazú",
-<<<<<<< HEAD
     "pic2URL":"img/ricardoalvarenga.jpg",
     "RESPONSABLE":"Ing. Ricardo Alvarenga",
     "CONTACTO":"0981-590956",
     "SHOW": true
-=======
-    "pic2URL":"img/ricardo_alverenga.jpg",
-    "RESPONSABLE":"Ing. Ricardo Alvarenga",
-    "CONTACTO":"0981-590956"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.53082079,-25.47354103 ]
-=======
-       "coordinates":  [ -56.53082079,-25.47354103,21 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Nueva Londres",
@@ -562,23 +396,15 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.30897775,-24.97686821 ]
-=======
-       "coordinates":  [ -56.30897775,-24.97686821,22 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Mbutuy",
@@ -589,23 +415,15 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.39706545,-25.19962209 ]
-=======
-       "coordinates":  [ -56.39706545,-25.19962209,23 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Carayaó",
@@ -616,23 +434,15 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.017266,-25.463529 ]
-=======
-       "coordinates":  [ -56.017266,-25.463529,24 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CAAGUAZÚ",
@@ -643,23 +453,15 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Cristino Benitez",
-<<<<<<< HEAD
     "CONTACTO":"0982-541264",
     "SHOW": true
-=======
-    "CONTACTO":"0982-541264"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.98156511,-25.46291042 ]
-=======
-       "coordinates":  [ -55.98156511,-25.46291042,25 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Toro Blanco Km. 175–Ruta N° 7",
@@ -670,23 +472,15 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.017285,-25.463528 ]
-=======
-       "coordinates":  [ -56.017285,-25.463528,26 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CAAZAPÁ",
@@ -697,23 +491,15 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/arnaldo_casco.jpg",
     "RESPONSABLE":"Ing. Arnaldo Casco",
-<<<<<<< HEAD
     "CONTACTO":"0981-250807",
     "SHOW": true
-=======
-    "CONTACTO":"0981-250807"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.09077285,-26.01777511 ]
-=======
-       "coordinates":  [ -56.09077285,-26.01777511,27 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal General Morínigo",
@@ -724,23 +510,15 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.9238024,-27.1410744 ]
-=======
-       "coordinates":  [ -55.9238024,-27.1410744,28 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL ITAPÚA",
@@ -751,23 +529,15 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/dario_gimenez.jpg",
     "RESPONSABLE":"Ing. Dario Gimenez",
-<<<<<<< HEAD
     "CONTACTO":"0971-107444",
     "SHOW": true
-=======
-    "CONTACTO":"0971-107444"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.69797083,-27.12278971 ]
-=======
-       "coordinates":  [ -55.69797083,-27.12278971,29 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Trinidad",
@@ -778,23 +548,15 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.85339068,-27.36290577 ]
-=======
-       "coordinates":  [ -55.85339068,-27.36290577,30 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida Centro de Fronteras de Encarnación",
@@ -805,23 +567,15 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.64311549,-25.50629644 ]
-=======
-       "coordinates":  [ -54.64311549,-25.50629644,31 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL ALTO PARANÁ",
@@ -832,23 +586,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/jorge_benitez.jpg",
     "RESPONSABLE":"Ing. Jorge Benitez",
-<<<<<<< HEAD
     "CONTACTO":"0975-230230",
     "SHOW": true
-=======
-    "CONTACTO":"0975-230230"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.9926824,-25.66198891 ]
-=======
-       "coordinates":  [ -54.9926824,-25.66198891,32 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Tavapy",
@@ -859,23 +605,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.18289287,-25.44451638 ]
-=======
-       "coordinates":  [ -55.18289287,-25.44451638,33 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Km. 60",
@@ -886,23 +624,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.65922208,-25.32858407 ]
-=======
-       "coordinates":  [ -54.65922208,-25.32858407,34 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Hernandarias",
@@ -913,12 +643,8 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
@@ -929,11 +655,7 @@
        "coordinates":  [ -54.6060441,-25.50951328 ]
 =======
        "coordinates":  [ -54.6060441,-25.50951328,35 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
-    "properties": {
-    "NOMBRE":"Puerto de Entrada y Salida en el Puente de la Amistad",
-    "DEPENDENCIA":"DGOR",
     "CATEGORÍA":"PES",
     "LOCALIDAD":"Ciudad del Este",
     "DISTRITO":"Ciudad del Este",
@@ -1966,23 +1688,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.04949,-25.383518 ]
-=======
-       "coordinates":  [ -57.04949,-25.383518,74 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Cordillera",
@@ -1993,23 +1707,15 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.419581,-25.735852 ]
-=======
-       "coordinates":  [ -56.419581,-25.735852,75 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Escuela Agricola Villarrica",
@@ -2020,23 +1726,15 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.5308283,-25.3456202 ]
-=======
-       "coordinates":  [ -57.5308283,-25.3456202,76 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Central",
@@ -2047,12 +1745,8 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   }
 ]
