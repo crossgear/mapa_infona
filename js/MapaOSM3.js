@@ -72,10 +72,12 @@ function cargarMapa(){
 
     $.getJSON(json, function(data){
         jsondata.addData(data)
-        mapa.addLayer(jsondata)
+        //mapa.addLayer(jsondata)
         
     });
     
+    jsondata.addTo(mapa);
+
     //Oficina Central
     var OFICEN = L.geoJSON(null,{
         onEachFeature: forEachFeature,
