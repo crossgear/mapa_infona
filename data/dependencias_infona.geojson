@@ -651,10 +651,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.6060441,-25.50951328 ]
-=======
-       "coordinates":  [ -54.6060441,-25.50951328,35 ]
     },
     "CATEGORÍA":"PES",
     "LOCALIDAD":"Ciudad del Este",
@@ -662,23 +659,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.71940164,-25.48621134 ]
-=======
-       "coordinates":  [ -54.71940164,-25.48621134,36 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Km. 12–AlGESA",
@@ -689,23 +678,15 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.52374248,-25.33954463 ]
-=======
-       "coordinates":  [ -57.52374248,-25.33954463,37 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CENTRAL",
@@ -716,23 +697,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/rodrigo_torres.jpg",
     "RESPONSABLE":"Ing. Rodrigo Torres",
-<<<<<<< HEAD
     "CONTACTO":"0983-234955",
     "SHOW": true
-=======
-    "CONTACTO":"0983-234955"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.65659865,-25.2766037 ]
-=======
-       "coordinates":  [ -57.65659865,-25.2766037,38 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Puertos y Almacenes Generales Kanonnikoff S.A. (PAKSA)",
@@ -743,23 +716,15 @@
     "DEPARTAMENTO":"Asunción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.5134864,-25.24260214 ]
-=======
-       "coordinates":  [ -57.5134864,-25.24260214,39 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en el Aeropuerto Silvio Pettirossi",
@@ -770,23 +735,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.54826176,-25.44399076 ]
-=======
-       "coordinates":  [ -57.54826176,-25.44399076,40 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Puerto Terport",
@@ -797,23 +754,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.55546799,-25.2144375 ]
-=======
-       "coordinates":  [ -57.55546799,-25.2144375,41 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en el Puerto Seguro (privado) y Estatal",
@@ -824,23 +773,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.56474199,-25.22139201 ]
-=======
-       "coordinates":  [ -57.56474199,-25.22139201,42 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Puerto Fenix",
@@ -851,23 +792,15 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.68957188,-25.22908001 ]
-=======
-       "coordinates":  [ -57.68957188,-25.22908001,43 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Chaco´i",
@@ -878,23 +811,15 @@
     "DEPARTAMENTO":"Pdte. Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.14145484,-25.37966393 ]
-=======
-       "coordinates":  [ -57.14145484,-25.37966393,44 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CORDILLERA",
@@ -905,23 +830,15 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/javier_caballero.jpg",
     "RESPONSABLE":"Ing. Javier Caballero",
-<<<<<<< HEAD
     "CONTACTO":"0984-491417",
     "SHOW": true
-=======
-    "CONTACTO":"0984-491417"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.09362748,-25.05127823 ]
-=======
-       "coordinates":  [ -57.09362748,-25.05127823,45 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Arroyos y Esteros",
@@ -932,23 +849,15 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.72141374,-22.56534679 ]
-=======
-       "coordinates":  [ -55.72141374,-22.56534679,46 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL AMAMBAY",
@@ -959,23 +868,15 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/pedro_gimenez.jpg",
     "RESPONSABLE":"Ing. Pedro Gimenez",
-<<<<<<< HEAD
     "CONTACTO":"0971-802957",
     "SHOW": true
-=======
-    "CONTACTO":"0971-802957"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.53392548,-23.26678266 ]
-=======
-       "coordinates":  [ -55.53392548,-23.26678266,47 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CAPITÁN BADO",
@@ -986,23 +887,15 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Lic. Norma Alonzo",
-<<<<<<< HEAD
     "CONTACTO":"0981-324042",
     "SHOW": true
-=======
-    "CONTACTO":"0981-324042"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.76542443,-22.58568867 ]
-=======
-       "coordinates":  [ -55.76542443,-22.58568867,48 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pedro J. Caballero",
@@ -1013,23 +906,15 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.55531129,-23.28779773 ]
-=======
-       "coordinates":  [ -55.55531129,-23.28779773,49 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Colonia Mcal. López",
@@ -1040,23 +925,15 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.7185961,-22.55453071 ]
-=======
-       "coordinates":  [ -55.7185961,-22.55453071,50 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Puerto Pedro J. Caballero",
@@ -1067,23 +944,15 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.3067946,-24.06491993 ]
-=======
-       "coordinates":  [ -54.3067946,-24.06491993,51 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CANINDEYÚ",
@@ -1094,23 +963,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Tec. Oscar Gomez",
-<<<<<<< HEAD
     "CONTACTO":"0983-186798",
     "SHOW": true
-=======
-    "CONTACTO":"0983-186798"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.82425845,-24.25915681 ]
-=======
-       "coordinates":  [ -54.82425845,-24.25915681,52 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cruce Carolina",
@@ -1121,23 +982,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -54.30243609,-24.06370589 ]
-=======
-       "coordinates":  [ -54.30243609,-24.06370589,53 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida en Puerto de Salto del Guaira",
@@ -1148,23 +1001,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.68739044,-24.47787499 ]
-=======
-       "coordinates":  [ -55.68739044,-24.47787499,54 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL CURUGUATY",
@@ -1175,23 +1020,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/anibal_aquino.jpg",
     "RESPONSABLE":"Tec. Anibal Aquino",
-<<<<<<< HEAD
     "CONTACTO":"0981-664395",
     "SHOW": true
-=======
-    "CONTACTO":"0981-664395"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.70237777,-24.45481491 ]
-=======
-       "coordinates":  [ -55.70237777,-24.45481491,55 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty",
@@ -1202,23 +1039,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.37098949,-24.43457782 ]
-=======
-       "coordinates":  [ -55.37098949,-24.43457782,56 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Curuguaty-Km. 35",
@@ -1229,23 +1058,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -55.44250313,-23.89512885 ]
-=======
-       "coordinates":  [ -55.44250313,-23.89512885,57 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Ypejhú",
@@ -1256,23 +1077,15 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.55384,-24.992122 ]
-=======
-       "coordinates":  [ -57.55384,-24.992122,58 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL PRESIDENTE HAYES",
@@ -1283,23 +1096,15 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Guillermo Santacruz",
-<<<<<<< HEAD
     "CONTACTO":"0981-207747",
     "SHOW": true
-=======
-    "CONTACTO":"0981-207747"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -58.79412582,-23.49430785 ]
-=======
-       "coordinates":  [ -58.79412582,-23.49430785,59 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pozo Colorado",
@@ -1310,23 +1115,15 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.56046023,-25.17302248 ]
-=======
-       "coordinates":  [ -57.56046023,-25.17302248,60 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Vista Alegre",
@@ -1337,23 +1134,15 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -59.7578899,-22.66640059 ]
-=======
-       "coordinates":  [ -59.7578899,-22.66640059,61 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL BOQUERÓN",
@@ -1364,23 +1153,15 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/ignacio_rivas.jpg",
     "RESPONSABLE":"Ing. Ignacio Rivas",
-<<<<<<< HEAD
     "CONTACTO":"0982-778171",
     "SHOW": false
-=======
-    "CONTACTO":"0982-778171"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -59.7578899,-22.66640059 ]
-=======
-       "coordinates":  [ -59.7578899,-22.66640059,62 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL ALTO PARAGUAY",
@@ -1391,23 +1172,15 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/oscar_ortiz.jpg",
     "RESPONSABLE":"Ing. Oscar Ortiz",
-<<<<<<< HEAD
     "CONTACTO":"0976-476146",
     "SHOW": false
-=======
-    "CONTACTO":"0976-476146"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.44906224,-25.78732225 ]
-=======
-       "coordinates":  [ -56.44906224,-25.78732225,63 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL GUAIRÁ",
@@ -1418,23 +1191,15 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Luis Ramirez",
-<<<<<<< HEAD
     "CONTACTO":"0994-473978",
     "SHOW": true
-=======
-    "CONTACTO":"0994-473978"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.61549239,-25.76204055 ]
-=======
-       "coordinates":  [ -56.61549239,-25.76204055,64 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Cnel. Martínez",
@@ -1445,23 +1210,15 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.2411211,-25.7652078 ]
-=======
-       "coordinates":  [ -57.2411211,-25.7652078,65 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL PARAGUARÍ",
@@ -1472,23 +1229,15 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/delfin_delgado.jpg",
     "RESPONSABLE":"Ing. Delfin Delgado",
-<<<<<<< HEAD
     "CONTACTO":"0981-450406",
     "SHOW": true
-=======
-    "CONTACTO":"0981-450406"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.14961802,-25.63021487 ]
-=======
-       "coordinates":  [ -57.14961802,-25.63021487,66 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Paraguarí",
@@ -1499,23 +1248,15 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.026667,-26.82025 ]
-=======
-       "coordinates":  [ -57.026667,-26.82025,67 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL MISIONES",
@@ -1526,23 +1267,15 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/richard_galeano.jpg",
     "RESPONSABLE":"Ing. Richard Galeano",
-<<<<<<< HEAD
     "CONTACTO":"0975-773325",
     "SHOW": true
-=======
-    "CONTACTO":"0975-773325"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.12100313,-26.41356924 ]
-=======
-       "coordinates":  [ -57.12100313,-26.41356924,68 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Villa Florida",
@@ -1553,23 +1286,15 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -58.287357,-26.881519 ]
-=======
-       "coordinates":  [ -58.287357,-26.881519,69 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"OFICINA REGIONAL ÑEEMBUCÚ",
@@ -1580,23 +1305,15 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Stella Martinez",
-<<<<<<< HEAD
     "CONTACTO":"0971-558514",
     "SHOW": true
-=======
-    "CONTACTO":"0971-558514"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -58.28338025,-26.85506817 ]
-=======
-       "coordinates":  [ -58.28338025,-26.85506817,70 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Unidad de Asistencia Técnica y Control Forestal Pilar",
@@ -1607,23 +1324,15 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -58.32130838,-26.87017361 ]
-=======
-       "coordinates":  [ -58.32130838,-26.87017361,71 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Puerto de Entrada y Salida Terminal Portuaria “Pilar”",
@@ -1634,23 +1343,15 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -57.055927,-23.336515 ]
-=======
-       "coordinates":  [ -57.055927,-23.336515,72 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Vivero Horqueta",
@@ -1661,23 +1362,15 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-<<<<<<< HEAD
     "CONTACTO":"021570515/8",
     "SHOW": true
-=======
-    "CONTACTO":"021570515/8"
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-<<<<<<< HEAD
        "coordinates":  [ -56.536287,-22.955721 ]
-=======
-       "coordinates":  [ -56.536287,-22.955721,73 ]
->>>>>>> 7947ff63636984812eb23e8a984b7a2b32fe8655
     },
     "properties": {
     "NOMBRE":"Yby Yau",
