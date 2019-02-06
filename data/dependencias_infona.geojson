@@ -16,8 +16,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"http://www.infona.gov.py/application/files/2115/3487/4715/636704714365102534_IMG_4917.jpg",
     "RESPONSABLE":"Ingeniera Forestal Cristina Alejandra Goralewski",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -35,8 +34,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -54,8 +52,7 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -73,8 +70,7 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -92,8 +88,7 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -111,8 +106,7 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -130,8 +124,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Gustavo Torales",
-    "CONTACTO":"0981-394271",
-    "SHOW": true
+    "CONTACTO":"0981-394271"
     }
   },
   {
@@ -149,8 +142,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -168,8 +160,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -187,8 +178,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -206,8 +196,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -225,8 +214,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -244,8 +232,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/edgar_chamorro.jpg",
     "RESPONSABLE":"Ing. Edgar Chamorro",
-    "CONTACTO":"0981-505594",
-    "SHOW": true
+    "CONTACTO":"0981-505594"
     }
   },
   {
@@ -263,8 +250,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -282,8 +268,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/martin_rubiani.jpg",
     "RESPONSABLE":"Lic. Martin Rubiani",
-    "CONTACTO":"0986-618559",
-    "SHOW": true
+    "CONTACTO":"0986-618559"
     }
   },
   {
@@ -301,8 +286,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -320,8 +304,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -339,8 +322,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -358,8 +340,7 @@
     "DEPARTAMENTO":"San Pedro",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -375,10 +356,9 @@
     "LOCALIDAD":"Coronel Oviedo",
     "DISTRITO":"Coronel Oviedo",
     "DEPARTAMENTO":"Caaguazú",
-    "pic2URL":"img/ricardoalvarenga.jpg",
+    "pic2URL":"img/ricardo_alvarenga.jpg",
     "RESPONSABLE":"Ing. Ricardo Alvarenga",
-    "CONTACTO":"0981-590956",
-    "SHOW": true
+    "CONTACTO":"0981-590956"
     }
   },
   {
@@ -396,8 +376,7 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -415,8 +394,7 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -434,8 +412,7 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -453,8 +430,7 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Cristino Benitez",
-    "CONTACTO":"0982-541264",
-    "SHOW": true
+    "CONTACTO":"0982-541264"
     }
   },
   {
@@ -472,8 +448,7 @@
     "DEPARTAMENTO":"Caaguazú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -491,8 +466,7 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/arnaldo_casco.jpg",
     "RESPONSABLE":"Ing. Arnaldo Casco",
-    "CONTACTO":"0981-250807",
-    "SHOW": true
+    "CONTACTO":"0981-250807"
     }
   },
   {
@@ -510,8 +484,7 @@
     "DEPARTAMENTO":"Caazapá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -529,8 +502,7 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/dario_gimenez.jpg",
     "RESPONSABLE":"Ing. Dario Gimenez",
-    "CONTACTO":"0971-107444",
-    "SHOW": true
+    "CONTACTO":"0971-107444"
     }
   },
   {
@@ -548,8 +520,7 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -567,8 +538,7 @@
     "DEPARTAMENTO":"Itapúa",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -586,8 +556,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/jorge_benitez.jpg",
     "RESPONSABLE":"Ing. Jorge Benitez",
-    "CONTACTO":"0975-230230",
-    "SHOW": true
+    "CONTACTO":"0975-230230"
     }
   },
   {
@@ -605,8 +574,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -624,8 +592,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -643,8 +610,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -653,14 +619,16 @@
        "type": "Point",
        "coordinates":  [ -54.6060441,-25.50951328 ]
     },
+    "properties": {
+    "NOMBRE":"Puerto de Entrada y Salida en el Puente de la Amistad",
+    "DEPENDENCIA":"DGOR",
     "CATEGORÍA":"PES",
     "LOCALIDAD":"Ciudad del Este",
     "DISTRITO":"Ciudad del Este",
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -678,8 +646,7 @@
     "DEPARTAMENTO":"Alto Paraná",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -697,8 +664,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/rodrigo_torres.jpg",
     "RESPONSABLE":"Ing. Rodrigo Torres",
-    "CONTACTO":"0983-234955",
-    "SHOW": true
+    "CONTACTO":"0983-234955"
     }
   },
   {
@@ -716,8 +682,7 @@
     "DEPARTAMENTO":"Asunción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -735,8 +700,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -754,8 +718,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -773,8 +736,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -792,8 +754,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -811,8 +772,7 @@
     "DEPARTAMENTO":"Pdte. Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -830,8 +790,7 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/javier_caballero.jpg",
     "RESPONSABLE":"Ing. Javier Caballero",
-    "CONTACTO":"0984-491417",
-    "SHOW": true
+    "CONTACTO":"0984-491417"
     }
   },
   {
@@ -849,8 +808,7 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -868,8 +826,7 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/pedro_gimenez.jpg",
     "RESPONSABLE":"Ing. Pedro Gimenez",
-    "CONTACTO":"0971-802957",
-    "SHOW": true
+    "CONTACTO":"0971-802957"
     }
   },
   {
@@ -887,8 +844,7 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Lic. Norma Alonzo",
-    "CONTACTO":"0981-324042",
-    "SHOW": true
+    "CONTACTO":"0981-324042"
     }
   },
   {
@@ -906,8 +862,7 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -925,8 +880,7 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -944,8 +898,7 @@
     "DEPARTAMENTO":"Amambay",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -963,8 +916,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Tec. Oscar Gomez",
-    "CONTACTO":"0983-186798",
-    "SHOW": true
+    "CONTACTO":"0983-186798"
     }
   },
   {
@@ -982,8 +934,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1001,8 +952,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1020,8 +970,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/anibal_aquino.jpg",
     "RESPONSABLE":"Tec. Anibal Aquino",
-    "CONTACTO":"0981-664395",
-    "SHOW": true
+    "CONTACTO":"0981-664395"
     }
   },
   {
@@ -1039,8 +988,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1058,8 +1006,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1077,8 +1024,7 @@
     "DEPARTAMENTO":"Canindeyú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1096,8 +1042,7 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Guillermo Santacruz",
-    "CONTACTO":"0981-207747",
-    "SHOW": true
+    "CONTACTO":"0981-207747"
     }
   },
   {
@@ -1115,8 +1060,7 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1134,8 +1078,7 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1153,8 +1096,7 @@
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/ignacio_rivas.jpg",
     "RESPONSABLE":"Ing. Ignacio Rivas",
-    "CONTACTO":"0982-778171",
-    "SHOW": false
+    "CONTACTO":"0982-778171"
     }
   },
   {
@@ -1164,16 +1106,15 @@
        "coordinates":  [ -59.7578899,-22.66640059 ]
     },
     "properties": {
-    "NOMBRE":"OFICINA REGIONAL ALTO PARAGUAY",
+    "NOMBRE":"OFICINA REGIONAL ALTO PARAGUAY/BOQUERÓN",
     "DEPENDENCIA":"DGOR",
     "CATEGORÍA":"OFICINA REGIONAL",
     "LOCALIDAD":"Km. 410-Ruta Nº 9-Cruce Los Pioneros",
     "DISTRITO":"Teniente 1ero. Manuel Irala Fernández",
     "DEPARTAMENTO":"Presidente Hayes",
     "pic2URL":"img/oscar_ortiz.jpg",
-    "RESPONSABLE":"Ing. Oscar Ortiz",
-    "CONTACTO":"0976-476146",
-    "SHOW": false
+    "RESPONSABLE":"Ing. Oscar Ortiz/Ing. Ignacio Rivas",
+    "CONTACTO":"0976-476146/0982-778171"
     }
   },
   {
@@ -1191,8 +1132,7 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Luis Ramirez",
-    "CONTACTO":"0994-473978",
-    "SHOW": true
+    "CONTACTO":"0994-473978"
     }
   },
   {
@@ -1210,8 +1150,7 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1229,8 +1168,7 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/delfin_delgado.jpg",
     "RESPONSABLE":"Ing. Delfin Delgado",
-    "CONTACTO":"0981-450406",
-    "SHOW": true
+    "CONTACTO":"0981-450406"
     }
   },
   {
@@ -1248,8 +1186,7 @@
     "DEPARTAMENTO":"Paraguarí",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1267,8 +1204,7 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/richard_galeano.jpg",
     "RESPONSABLE":"Ing. Richard Galeano",
-    "CONTACTO":"0975-773325",
-    "SHOW": true
+    "CONTACTO":"0975-773325"
     }
   },
   {
@@ -1286,8 +1222,7 @@
     "DEPARTAMENTO":"Misiones",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1305,8 +1240,7 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"Ing. Stella Martinez",
-    "CONTACTO":"0971-558514",
-    "SHOW": true
+    "CONTACTO":"0971-558514"
     }
   },
   {
@@ -1324,8 +1258,7 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1343,8 +1276,7 @@
     "DEPARTAMENTO":"Ñeembucú",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1362,8 +1294,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1381,8 +1312,7 @@
     "DEPARTAMENTO":"Concepción",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1400,8 +1330,7 @@
     "DEPARTAMENTO":"Cordillera",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1419,8 +1348,7 @@
     "DEPARTAMENTO":"Guairá",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   },
   {
@@ -1438,8 +1366,7 @@
     "DEPARTAMENTO":"Central",
     "pic2URL":"img/logovideo.jpg",
     "RESPONSABLE":"INFONA",
-    "CONTACTO":"021570515/8",
-    "SHOW": true
+    "CONTACTO":"021570515/8"
     }
   }
 ]
